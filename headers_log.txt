@@ -1,0 +1,84 @@
+Array
+(
+    [Host] => f220-114-10-42-48.ngrok-free.app
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7
+    [Cache-Control] => max-age=0
+    [Cookie] => abuse_interstitial=f220-114-10-42-48.ngrok-free.app; PHPSESSID=3bd58aqa6tso6d5glfuc6na6pt; crisp-client%2Fsession%2F230559cc-d6d9-4a7b-9e84-c609f42a5a59=session_efb7880e-ab38-49cc-8e84-633f2a32ff8f
+    [Priority] => u=0, i
+    [Sec-Ch-Ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Sec-Fetch-Dest] => document
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-User] => ?1
+    [Upgrade-Insecure-Requests] => 1
+    [X-Forwarded-For] => 114.10.42.48
+    [X-Forwarded-Host] => f220-114-10-42-48.ngrok-free.app
+    [X-Forwarded-Proto] => https
+)
+Array
+(
+    [Host] => localhost:8080
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7
+    [Cookie] => crisp-client%2Fsession%2F230559cc-d6d9-4a7b-9e84-c609f42a5a59=session_8eee353f-1d7d-40fa-9fba-16a1521c7337; crisp-client%2Fsocket%2F230559cc-d6d9-4a7b-9e84-c609f42a5a59=1; PHPSESSID=8n4no5mi5u8kfsbumqk1n6e198
+)
+Array
+(
+    [Host] => f220-114-10-42-48.ngrok-free.app
+    [User-Agent] => Veritrans
+    [Content-Length] => 629
+    [Content-Type] => application/json
+    [X-Forwarded-For] => 34.101.92.69
+    [X-Forwarded-Host] => f220-114-10-42-48.ngrok-free.app
+    [X-Forwarded-Proto] => https
+    [Accept-Encoding] => gzip
+)
+Array
+(
+    [Host] => f220-114-10-42-48.ngrok-free.app
+    [User-Agent] => Veritrans
+    [Content-Length] => 672
+    [Content-Type] => application/json
+    [X-Forwarded-For] => 34.101.92.69
+    [X-Forwarded-Host] => f220-114-10-42-48.ngrok-free.app
+    [X-Forwarded-Proto] => https
+    [Accept-Encoding] => gzip
+)
+Array
+(
+    [Host] => f220-114-10-42-48.ngrok-free.app
+    [User-Agent] => Veritrans
+    [Content-Length] => 629
+    [Content-Type] => application/json
+    [X-Forwarded-For] => 34.101.92.69
+    [X-Forwarded-Host] => f220-114-10-42-48.ngrok-free.app
+    [X-Forwarded-Proto] => https
+    [Accept-Encoding] => gzip
+)
+Array
+(
+    [Host] => f220-114-10-42-48.ngrok-free.app
+    [User-Agent] => Veritrans
+    [Content-Length] => 672
+    [Content-Type] => application/json
+    [X-Forwarded-For] => 34.101.92.69
+    [X-Forwarded-Host] => f220-114-10-42-48.ngrok-free.app
+    [X-Forwarded-Proto] => https
+    [Accept-Encoding] => gzip
+)

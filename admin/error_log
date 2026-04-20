@@ -1,0 +1,550 @@
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rejk9324/public_html/rejikustore/new_rejikustore/koneksi.php on line 3
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 57
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 58
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 82
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 83
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 25
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 27
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 42
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 44
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 59
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 61
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 77
+[10-Jul-2024 14:37:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 79
+[10-Jul-2024 15:02:33 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 15:02:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[10-Jul-2024 15:02:36 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 15:02:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[10-Jul-2024 15:03:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 15:03:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[10-Jul-2024 15:03:10 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 15:03:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[10-Jul-2024 15:03:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 15:03:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[10-Jul-2024 15:03:33 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 15:03:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[10-Jul-2024 15:03:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 15:03:34 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[10-Jul-2024 15:04:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 29
+[10-Jul-2024 15:04:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php:1) in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 31
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[11-Jul-2024 09:10:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[11-Jul-2024 21:25:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[11-Jul-2024 21:26:40 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_hapus.php on line 11
+[11-Jul-2024 21:26:40 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_hapus.php on line 12
+[12-Jul-2024 15:03:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[12-Jul-2024 15:03:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[12-Jul-2024 15:03:49 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[12-Jul-2024 15:03:49 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[12-Jul-2024 15:03:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[12-Jul-2024 15:03:49 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[12-Jul-2024 15:03:49 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[15-Jul-2024 15:59:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[15-Jul-2024 17:51:04 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[16-Jul-2024 21:48:13 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[16-Jul-2024 23:52:34 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[16-Jul-2024 23:52:34 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[16-Jul-2024 23:52:34 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[16-Jul-2024 23:52:34 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[16-Jul-2024 23:52:34 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[16-Jul-2024 23:52:34 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[16-Jul-2024 23:52:34 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[19-Jul-2024 18:08:43 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[21-Jul-2024 21:38:28 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[22-Jul-2024 00:05:01 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[22-Jul-2024 00:10:18 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[22-Jul-2024 00:10:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[22-Jul-2024 00:10:21 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[22-Jul-2024 11:56:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[03-Aug-2024 17:25:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[03-Aug-2024 17:26:52 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[03-Aug-2024 17:33:21 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[03-Aug-2024 17:33:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[03-Aug-2024 17:33:21 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[03-Aug-2024 17:33:21 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[03-Aug-2024 17:33:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[03-Aug-2024 17:33:21 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[03-Aug-2024 17:33:21 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[03-Aug-2024 17:48:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[15-Aug-2024 13:12:12 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[15-Aug-2024 13:12:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[15-Aug-2024 13:12:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[15-Aug-2024 13:26:51 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[15-Aug-2024 13:26:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[15-Aug-2024 13:26:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[15-Aug-2024 13:26:51 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[15-Aug-2024 13:26:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[15-Aug-2024 13:26:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[15-Aug-2024 13:26:51 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[15-Aug-2024 13:36:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[15-Aug-2024 13:36:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[15-Aug-2024 13:36:15 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[15-Aug-2024 13:36:15 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[15-Aug-2024 13:36:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[15-Aug-2024 13:36:15 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[15-Aug-2024 13:36:15 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[18-Aug-2024 20:44:47 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[18-Aug-2024 20:49:01 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 53
+[18-Aug-2024 20:49:01 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 70
+[18-Aug-2024 20:52:01 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 53
+[18-Aug-2024 20:52:01 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 70
+[18-Aug-2024 20:53:42 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 53
+[18-Aug-2024 20:53:42 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 70
+[18-Aug-2024 20:55:43 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 53
+[18-Aug-2024 20:55:43 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 70
+[18-Aug-2024 20:58:28 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 53
+[18-Aug-2024 20:58:28 Asia/Jakarta] PHP Warning:  unlink(../gambar/produk/): Is a directory in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/produk_update.php on line 70
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[19-Aug-2024 08:52:33 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[21-Aug-2024 08:30:57 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[27-Aug-2024 12:45:18 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[27-Aug-2024 12:48:29 Asia/Jakarta] PHP Notice:  Undefined index: invoice in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/transaksi_status.php on line 3
+[27-Aug-2024 12:48:29 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/transaksi_status.php on line 4
+[27-Aug-2024 12:48:30 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[27-Aug-2024 12:48:30 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[27-Aug-2024 12:48:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[27-Aug-2024 12:48:30 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[27-Aug-2024 12:48:30 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[27-Aug-2024 12:48:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[27-Aug-2024 12:48:30 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[27-Aug-2024 12:49:03 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[27-Aug-2024 12:49:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[27-Aug-2024 12:49:03 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[27-Aug-2024 12:49:03 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[27-Aug-2024 12:49:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[27-Aug-2024 12:49:03 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[27-Aug-2024 12:49:03 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[27-Aug-2024 12:54:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[27-Aug-2024 12:57:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[27-Aug-2024 12:57:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[27-Aug-2024 12:57:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[27-Aug-2024 12:57:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[27-Aug-2024 12:57:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[27-Aug-2024 12:57:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[27-Aug-2024 12:57:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[27-Aug-2024 12:59:18 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[27-Aug-2024 12:59:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[27-Aug-2024 12:59:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[27-Aug-2024 12:59:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[27-Aug-2024 12:59:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[27-Aug-2024 12:59:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[27-Aug-2024 12:59:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[27-Aug-2024 13:01:11 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[27-Aug-2024 13:01:11 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[27-Aug-2024 13:01:11 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[27-Aug-2024 13:01:11 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[27-Aug-2024 13:01:11 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[27-Aug-2024 13:01:11 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[27-Aug-2024 13:01:11 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[27-Aug-2024 13:02:22 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[27-Aug-2024 13:02:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[27-Aug-2024 13:02:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[27-Aug-2024 13:02:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[27-Aug-2024 13:02:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[27-Aug-2024 13:02:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[27-Aug-2024 13:02:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[25-Sep-2024 09:54:22 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[25-Sep-2024 09:54:28 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[25-Sep-2024 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[25-Sep-2024 10:10:48 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[14-Oct-2024 12:16:58 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[01-Nov-2024 10:49:44 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[01-Nov-2024 10:49:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[01-Nov-2024 12:50:17 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[01-Nov-2024 12:50:17 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[01-Nov-2024 12:50:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[01-Nov-2024 12:50:17 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[01-Nov-2024 12:50:17 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[01-Nov-2024 12:50:17 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[01-Nov-2024 12:50:17 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[01-Nov-2024 12:50:18 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[01-Nov-2024 12:50:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[01-Nov-2024 12:50:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[01-Nov-2024 12:50:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[01-Nov-2024 12:50:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[01-Nov-2024 12:50:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[01-Nov-2024 12:50:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[01-Nov-2024 12:50:21 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[01-Nov-2024 12:50:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[01-Nov-2024 12:50:21 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[01-Nov-2024 12:50:21 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[01-Nov-2024 12:50:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[01-Nov-2024 12:50:21 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[01-Nov-2024 12:50:21 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[01-Nov-2024 12:50:22 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[01-Nov-2024 12:50:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[01-Nov-2024 12:50:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[01-Nov-2024 12:50:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[01-Nov-2024 12:50:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[01-Nov-2024 12:50:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[01-Nov-2024 12:50:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[01-Nov-2024 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[03-Nov-2024 14:12:41 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[04-Nov-2024 14:22:30 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[15-Nov-2024 11:28:59 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[16-Nov-2024 11:20:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[16-Nov-2024 21:04:53 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[16-Nov-2024 21:04:53 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[16-Nov-2024 21:04:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[16-Nov-2024 21:04:53 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[16-Nov-2024 21:04:53 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[16-Nov-2024 21:04:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[16-Nov-2024 21:04:53 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[25-Nov-2024 17:19:35 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rejk9324_rayhan'@'localhost' to database 'rejk9324_rejikuw' in /home/rejk9324/public_html/rejikustore/new_rejikustore/koneksi.php on line 3
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 30
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 56
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 57
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 58
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 59
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 65
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 81
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 82
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 83
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 84
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/header.php on line 93
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 25
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 27
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 42
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 44
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 59
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 61
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 77
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 79
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 105
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 109
+[26-Nov-2024 12:54:09 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/rejk9324/public_html/rejikustore/new_rejikustore/admin/index.php on line 115

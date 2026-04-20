@@ -1,0 +1,12 @@
+prov_id: 3
+HTTP Status: 410
+Response: {"success":false,"code":410,"message":"Endpoint API ini sudah tidak aktif. Silakan migrasi ke platform baru dan lakukan renewal package di https:\/\/collaborator.komerce.id."}
+
+prov_id: 6
+HTTP Status: 404
+Response: 404 page not found
+
+prov_id: 2
+HTTP Status: 404
+Response: 404 page not found
+
