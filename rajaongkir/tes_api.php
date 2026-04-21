@@ -2,7 +2,7 @@
 // File untuk test koneksi ke RajaOngkir API
 echo "<h3>Test Koneksi RajaOngkir API Starter</h3>";
 
-$api_key = "12d2892c4854fb288ace09aac00fe536kontol"; // Ganti dengan API Key Anda
+$api_key = ""; // Ganti dengan API Key Anda
 
 // Test 1: Cek Provinsi
 echo "<h4>1. Test Ambil Data Provinsi:</h4>";
