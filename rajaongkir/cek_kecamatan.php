@@ -13,7 +13,7 @@ curl_setopt_array($curl, [
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_HTTPHEADER => [
         "Accept: application/json",
-        "key: VSx5Ke5Y6cb00c723c98a51fhXFF8MwL"
+        "key: "
     ],
 ]);
 
