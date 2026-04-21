@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_HTTPHEADER => [
                 "Accept: application/json",
-                "key: VSx5Ke5Y6cb00c723c98a51fhXFF8MwL"
+                "key: "
             ],
         ]);
         $response = curl_exec($curl);
@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             CURLOPT_HTTPHEADER => [
                 "Content-Type: application/json",
                 "Accept: application/json",
-                "key: VSx5Ke5Y6cb00c723c98a51fhXFF8MwL"
+                "key: "
             ],
         ]);
 
