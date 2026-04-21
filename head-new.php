@@ -21,7 +21,7 @@
     <!-- live chat -->
     <script type="text/javascript">
     window.$crisp = [];
-    window.CRISP_WEBSITE_ID = "230559cc-d6d9-4a7b-9e84-c609f42a5a59";
+    window.CRISP_WEBSITE_ID = "";
     (function() {
         d = document;
         s = d.createElement("script");
