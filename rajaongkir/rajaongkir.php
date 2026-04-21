@@ -4,7 +4,7 @@ curl_setopt_array($curl, [
     CURLOPT_URL => "https://api.rajaongkir.com/starter/city",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_HTTPHEADER => [
-        "key: 5aV7n7fs0c2735808aec919aDzR88hHH" // Ganti dengan API Key baru
+        "key: " // Ganti dengan API Key baru
     ],
 ]);
 $response = curl_exec($curl);
@@ -30,7 +30,7 @@ curl_setopt_array($curl, [
     CURLOPT_URL => "https://api.rajaongkir.com/starter/province",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_HTTPHEADER => [
-        "key: 5aV7n7fs0c2735808aec919aDzR88hHH" // Ganti dengan API Key baru
+        "key: " // Ganti dengan API Key baru
     ],
 ]);
 $response = curl_exec($curl);
